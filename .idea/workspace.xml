@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b9e30d-2625-4eb2-a636-c07e720f30f8" name="Changes" comment="ex 4.7">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Exercise4.6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2diWNnqop2D7zKRi16cCVB1SfMl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EnhancedCalculator.executor": "Run",
+    "Application.GeometryCalculator.executor": "Run",
+    "Application.MathOperation.executor": "Run",
+    "Application.MeasurementConverter.executor": "Run",
+    "Application.PaperProperties.executor": "Run",
+    "Application.PowerCalculator.executor": "Run",
+    "Application.RectangleCalculator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Exercise4.7",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/MSI/IdeaProjects/Project2/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-3183f394aec4-87f3d08d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b9e30d-2625-4eb2-a636-c07e720f30f8" name="Changes" comment="" />
+      <created>1710491343867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710491343867</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ex 1">
+      <option name="closed" value="true" />
+      <created>1710572125980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710572125980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ex 4.4">
+      <option name="closed" value="true" />
+      <created>1710572921593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710572921593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ex 4.4">
+      <option name="closed" value="true" />
+      <created>1710573414369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710573414369</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ex 4.4">
+      <option name="closed" value="true" />
+      <created>1710599488937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599488938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ex 4.4">
+      <option name="closed" value="true" />
+      <created>1710599508852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599508852</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ex 4.4">
+      <option name="closed" value="true" />
+      <created>1710599623097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599623097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ex 4.1">
+      <option name="closed" value="true" />
+      <created>1710599653649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599653649</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ex 4.5">
+      <option name="closed" value="true" />
+      <created>1710599757127</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599757127</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ex 4.6">
+      <option name="closed" value="true" />
+      <created>1710599809109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599809109</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ex 4.7">
+      <option name="closed" value="true" />
+      <created>1710599887501</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599887501</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex 1" />
+    <MESSAGE value="ex 4.4" />
+    <MESSAGE value="ex 4.1" />
+    <MESSAGE value="ex 4.5" />
+    <MESSAGE value="ex 4.6" />
+    <MESSAGE value="ex 4.7" />
+    <MESSAGE value="ex 4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex 4.2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
